@@ -1,0 +1,24 @@
+body
+{
+    color: #fafafa;
+    margin: 0px;
+    padding: 0px;
+}
+
+.yt
+{
+    height: 50px;
+    display: inline;
+    /* background-color: #404040; */
+}
+
+#mye
+{
+    background-image: linear-gradient(to top right,darkorchid, red);
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
